@@ -254,4 +254,4 @@ wc = WordCloud(font_path='malgun', width=400, height=400, scale=2.0, max_font_si
 gen = wc.generate_from_frequencies(c)
 plt.figure()
 plt.imshow(gen)
-wc.to_file('myplaylist.png')
+wc.to_file('myplaylistlyrics.png')
