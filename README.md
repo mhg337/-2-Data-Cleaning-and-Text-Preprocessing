@@ -87,3 +87,5 @@
       plt.figure()
       plt.imshow(gen)
       wc.to_file('myplaylistlyrics.png')
+
+![myplaylistlyrics](https://github.com/mhg337/-2-Data-Cleaning-and-Text-Preprocessing/assets/144089001/072622a4-09b2-4c72-8f65-5bcbbf4f0a15)
